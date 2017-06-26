@@ -102,8 +102,7 @@ body{
     text-align: center;
 }
 .resume{
-    position: absolute;
-    
+        text-decoration-line: underline;
 }
 .cas{
     max-width: 100%;
@@ -116,11 +115,8 @@ body{
     margin-left: 45px;
     width: 50px;
 }
-.resume{
-position: absolute;
-    margin: auto;
-    left: 0;
-    right: 0;
+.resu{
+text-align: center;
 }
 @media (max-width: 767px){
     .cas {
